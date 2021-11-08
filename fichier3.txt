@@ -1,1 +1,2 @@
 Texte rédigé à/p Branche branche1
+Une nouvelle modification du fichier dans la branche1
